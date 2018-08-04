@@ -1,0 +1,74 @@
+
+    
+	    	
+// Log File Configurations.
+// The default log file name.
+LOGFILE_NAME="log.txt"
+
+// Word List Configurations.
+// Limits on the size of the word list.
+MINIMUM_NUMBER_OF_UNIQUE_WORDS=-10
+MAXIMUM_NUMBER_OF_UNIQUE_WORDS=1000
+
+// Crozzle Output Configurations.
+INVALID_CROZZLE_SCORE="INVALID CROZZLE"
+UPPERCASE=yes
+STYLE="<style> table, td { border: 1px solid black; border-collapse: collapse; } td { width:24px; height:18px; text-align: center; } </style>"
+
+BGCOLOUR_EMPTY_TD=#7777
+BGCOLOUR_NON_EMPTY_TD=#abcxyz
+
+// Crozzle Configurations.
+// Limits on the size of the crozzle grid.
+MINIMUM_NUMBER_OF_ROWS=4
+MAXIMUM_NUMBER_OF_ROWS=1
+MINIMUM_NUMBER_OF_COLUMNS=8
+MAXIMUM_NUMBER_OF_COLUMNS 800
+
+// Limits on the number of horizontal words and
+// vertical words in a crozzle.
+MINIMUM_HORIZONTAL_WORDS=
+MAXIMUM_HORIZONTAL_WORDS=100
+MINIMUM_VERTICAL_WORDS=1
+MAXIMUM_VERTICAL_WORDS=5
+
+// Limits on the number of 
+// intersecting vertical words for each horizontal word, and
+// intersecting horizontal words for each vertical word.
+MINIMUM_INTERSECTIONS_IN_HORIZONTAL_WORDS=1
+MAXIMUM_INTERSECTIONS_IN_HORIZONTAL_WORDS=100
+MINIMUM_INTERSECTIONS_IN_VERTICAL_WORDS=1
+MAXIMUM_INTERSECTIONS_IN_VERTICAL_WORDS=100
+
+// Limits on duplicate words in the crozzle.
+MINIMUM_NUMBER_OF_THE_SAME_WORD="1"
+MAXIMUM_NUMBER_OF_THE_SAME_WORD=1
+
+// Limits on the number of valid word groups.
+MINIMUM_NUMBER_OF_GROUPS=1
+MAXIMUM_NUMBER_OF_GROUPS=1
+
+// Scoring Configurations
+// The number of points per word within the crozzle.
+POINTS_PER_WORD=lO
+
+// Points per letter that is at the intersection of
+// a horizontal and vertical word within the crozzle.
+INTERSECTING_POINTS_PER_LETTER="A=1,B=2,C=2,D=2,E=1,F=2,G=2,H=2,I=1,J=4,K=4,L=4,M=4,N=4,O=1,P=8,Q=8,R=8,S=8,T=8,U=1,V=16,W=16,X=32,Y=32,Z=64"
+
+// Points per letter that is not at the intersection of
+// a horizontal and vertical word within the crozzle.
+NON_INTERSECTING_POINTS_PER_LETTER="A=0,B=0,C=0,D=0,E=0,F=0,G=0,H=0,I=0,J=0,K=0,L=0,M=0,N=0,O=0,P=0,Q=0,R=0,S=0,T=0,U=0,V=0,W=0,X=0,Y=0,Z=0"
+
+
+
+
+
+
+
+
+
+
+
+
+
