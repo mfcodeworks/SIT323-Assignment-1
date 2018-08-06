@@ -1,0 +1,35 @@
+// File dependencies.
+// Configuraton file.
+CONFIGURATION_FILE=".\Test 1 Configuration.txt"
+
+// Word list file.
+WORDLIST_FILE=".\Test 1 Wordlist.txt"
+
+// Crozzle Size.
+// The number of rows and columns.
+ROWS=10       // This crozzle will have 10 rows.
+COLUMNS=15
+
+// Word Data.
+// The horizontal rows containing words.
+ROW=1,BETTY,4
+ROW=1,OSCAR,10
+ROW=3,JILL,2
+ROW=6,MARY,4
+ROW=6,ROBERT,9
+ROW=8,GARY,6
+ROW=9,JACK,1
+ROW=9,FRED,12
+ROW=10,RONALD,6
+
+// The vertical rows containing words.
+COLUMN=2,JESSICA,3
+COLUMN=4,BILL,1
+COLUMN=4,MARK,6
+COLUMN=6,ROGER,6
+COLUMN=7,TOM,1
+COLUMN=8,RON,8
+COLUMN=9,HARRY,4
+COLUMN=10,AL,9
+COLUMN=12,CHARLES,1
+COLUMN=14,MATTHEW,4
