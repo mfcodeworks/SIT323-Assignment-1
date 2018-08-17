@@ -1,9 +1,9 @@
 // File dependencies.
 // Configuraton file.
-CONFIGURATION_FILE=".\Test 2 Configuration.txt"
+CONFIGURATION_FILE=".\Test 2.cfg"
 
 // Word list file.
-WORDLIST_FILE=".\Test 2 Wordlist.txt"
+WORDLIST_FILE=".\Test 2.seq"
 
 // Crozzle Size.
 // The number of rows and columns.
