@@ -2,3 +2,7 @@
 CrozzleApplication/bin/
 
 CrozzleApplication/obj/
+
+\.vscode/\.\./\.\./Properties/Resources\.log
+
+\.\./\.\./Properties/Resources\.log
