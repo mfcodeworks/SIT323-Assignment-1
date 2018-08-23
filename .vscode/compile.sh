@@ -1,2 +1,2 @@
 #!/bin/bash
-msbuild ./CrozzleApplication/CrozzleFormApplication.csproj
+msbuild ../CrozzleApplication/CrozzleFormApplication.csproj
