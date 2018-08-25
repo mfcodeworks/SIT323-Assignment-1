@@ -7,7 +7,7 @@ WORDLIST_FILE=".\New Testcase 2.seq"
 
 // Crozzle Size.
 // The number of rows and columns.
-ROWS=1       // This crozzle will have 10 rows.
+ROWS=10       // This crozzle will have 10 rows.
 COLUMNS=15
 
 // Word Data.

@@ -544,3 +544,59 @@ END PROCESSING FILE: New Testcase 2.cfg
 START PROCESSING FILE: New Testcase 2.seq
 END PROCESSING FILE: New Testcase 2.seq
 
+START PROCESSING FILE: New Testcase 1.czl
+END PROCESSING FILE: New Testcase 1.czl
+
+START PROCESSING FILE: New Testcase 1.cfg
+END PROCESSING FILE: New Testcase 1.cfg
+
+START PROCESSING FILE: New Testcase 1.seq
+END PROCESSING FILE: New Testcase 1.seq
+
+START PROCESSING CROZZLE:
+END PROCESSING CROZZLE:
+
+START PROCESSING FILE: New Testcase 2.czl
+error 1: code 3001: row value (2) is not in the range 1 to 1, inclusive
+error 2: code 3001: row value (3) is not in the range 1 to 1, inclusive
+error 3: code 3001: row value (3) is not in the range 1 to 1, inclusive
+error 4: code 3001: row value (4) is not in the range 1 to 1, inclusive
+error 5: code 3001: row value (6) is not in the range 1 to 1, inclusive
+error 6: code 3001: row value (6) is not in the range 1 to 1, inclusive
+error 7: code 3001: row value (8) is not in the range 1 to 1, inclusive
+error 8: code 3001: row value (8) is not in the range 1 to 1, inclusive
+error 9: code 3001: row value (9) is not in the range 1 to 1, inclusive
+error 10: code 3001: row value (9) is not in the range 1 to 1, inclusive
+error 11: code 3001: row value (10) is not in the range 1 to 1, inclusive
+error 12: code 3001: row value (3) is not in the range 1 to 1, inclusive
+error 13: code 3001: row value (6) is not in the range 1 to 1, inclusive
+error 14: code 3001: row value (5) is not in the range 1 to 1, inclusive
+error 15: code 3001: row value (2) is not in the range 1 to 1, inclusive
+error 16: code 3001: row value (7) is not in the range 1 to 1, inclusive
+error 17: code 3001: row value (6) is not in the range 1 to 1, inclusive
+END PROCESSING FILE: New Testcase 2.czl
+
+START PROCESSING FILE: New Testcase 2.cfg
+END PROCESSING FILE: New Testcase 2.cfg
+
+START PROCESSING FILE: New Testcase 2.seq
+END PROCESSING FILE: New Testcase 2.seq
+
+START PROCESSING FILE: New Testcase 2.czl
+END PROCESSING FILE: New Testcase 2.czl
+
+START PROCESSING FILE: New Testcase 2.cfg
+END PROCESSING FILE: New Testcase 2.cfg
+
+START PROCESSING FILE: New Testcase 2.seq
+END PROCESSING FILE: New Testcase 2.seq
+
+START PROCESSING CROZZLE:
+error 1: code 11008: the number of vertical words is 9 but this is not within [1, 5]
+error 2: code 11002: the number of horizontal words intersecting WENDY is 1, but this is not within [2, 500]
+error 3: code 11003: the number of times AL occurs is 2, but this is not within [1, 1]
+error 4: code 11003: the number of times ROSE occurs is 3, but this is not within [1, 1]
+error 5: code 11003: the number of times RON occurs is 2, but this is not within [1, 1]
+error 6: code 11005: the number of groups of connected words is 4, but this is not within [1, 1]
+END PROCESSING CROZZLE:
+
