@@ -56,7 +56,7 @@ namespace CrozzleApplication
         {
             Errors = new List<String>();
 
-            if (!Regex.IsMatch(hexColour, @"^#[0-9a-fA-F]{6}$"))
+            if (!Regex.IsMatch(hexColour, @"^#[0-9a-fA-F]{6}$|^#[0-9a-fA-F]{3}$"))
                 Errors.Add(ValidatorErrors.HexColourCodeError);
 
             return (Errors.Count == 0);
