@@ -1,0 +1,31 @@
+// File dependencies.
+// Configuraton file.
+CONFIGURATION_FILE=".\New Testcase 3.cfg"
+
+// Word list file.
+WORDLIST_FILE=".\New Testcase 3.seq"
+
+// Crozzle Size.
+// The number of rows and columns.
+ROWS=10       // This crozzle will have 10 rows.
+COLUMNS=y
+
+// Word Data.
+// The horizontal rows containing words.
+ROW=2,ROBERT,aaa
+ROW=bbb,OSCAR,2
+ROW=2,,3
+ROW=4,MARY,6
+ROW=6,11
+ROW=8,GARY
+ROW=1,?A?K?E,9
+ROW=14,AL,9
+
+// The vertical rows containing words.
+COLUMN=2,JESSICA,3
+COLUMN=4,BILL,1.5
+COLUMN=4,MARK,6
+COLUMN=6,ROGER,6
+COLUMN=9,HARRY,4
+COLUMN=11,CHARLES,2
+COLUMN=15,WENDY,2

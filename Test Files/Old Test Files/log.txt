@@ -196,3 +196,351 @@ error 2: code 11003: the number of times ROSE occurs is 3, but this is not withi
 error 3: code 11003: the number of times RON occurs is 2, but this is not within [1, 1]
 END PROCESSING CROZZLE:
 
+START PROCESSING FILE: New Testcase 1.czl
+END PROCESSING FILE: New Testcase 1.czl
+
+START PROCESSING FILE: New Testcase 1.cfg
+END PROCESSING FILE: New Testcase 1.cfg
+
+START PROCESSING FILE: New Testcase 1.seq
+END PROCESSING FILE: New Testcase 1.seq
+
+START PROCESSING FILE: New Testcase 2.czl
+error 1: code 9001: 3 fields in word data (ROW=3.AL,7), instead of 4
+error 2: code 9004: word (7) is not alphabetic
+END PROCESSING FILE: New Testcase 2.czl
+
+START PROCESSING FILE: New Testcase 2.cfg
+error 1: code 2001: invalid symbol in configuration item (BGCOLOUR-EMPTY-TD=#777)
+error 2: code 2001: invalid symbol in configuration item (BGCOLOUR-NON-EMPTY-TD=#ffffff)
+error 3: code 6002: invalid key in key-value pair (z=64)
+error 4: code 1007: key (BGCOLOUR_EMPTY_TD) is missing from the configuration file
+error 5: code 1007: key (BGCOLOUR_NON_EMPTY_TD) is missing from the configuration file
+END PROCESSING FILE: New Testcase 2.cfg
+
+START PROCESSING FILE: New Testcase 2.seq
+END PROCESSING FILE: New Testcase 2.seq
+
+START PROCESSING FILE: New Testcase 2.czl
+END PROCESSING FILE: New Testcase 2.czl
+
+START PROCESSING FILE: New Testcase 2.cfg
+error 1: code 2001: invalid symbol in configuration item (BGCOLOUR-EMPTY-TD=#777)
+error 2: code 2001: invalid symbol in configuration item (BGCOLOUR-NON-EMPTY-TD=#ffffff)
+error 3: code 6002: invalid key in key-value pair (z=64)
+error 4: code 1007: key (BGCOLOUR_EMPTY_TD) is missing from the configuration file
+error 5: code 1007: key (BGCOLOUR_NON_EMPTY_TD) is missing from the configuration file
+END PROCESSING FILE: New Testcase 2.cfg
+
+START PROCESSING FILE: New Testcase 2.seq
+END PROCESSING FILE: New Testcase 2.seq
+
+START PROCESSING FILE: New Testcase 1.czl
+END PROCESSING FILE: New Testcase 1.czl
+
+START PROCESSING FILE: New Testcase 1.cfg
+END PROCESSING FILE: New Testcase 1.cfg
+
+START PROCESSING FILE: New Testcase 1.seq
+END PROCESSING FILE: New Testcase 1.seq
+
+START PROCESSING FILE: New Testcase 2.czl
+END PROCESSING FILE: New Testcase 2.czl
+
+START PROCESSING FILE: New Testcase 2.cfg
+error 1: code 6002: invalid key in key-value pair (z=64)
+END PROCESSING FILE: New Testcase 2.cfg
+
+START PROCESSING FILE: New Testcase 2.seq
+END PROCESSING FILE: New Testcase 2.seq
+
+START PROCESSING FILE: New Testcase 2.czl
+END PROCESSING FILE: New Testcase 2.czl
+
+START PROCESSING FILE: New Testcase 2.cfg
+END PROCESSING FILE: New Testcase 2.cfg
+
+START PROCESSING FILE: New Testcase 2.seq
+END PROCESSING FILE: New Testcase 2.seq
+
+START PROCESSING FILE: New Testcase 1.czl
+END PROCESSING FILE: New Testcase 1.czl
+
+START PROCESSING FILE: New Testcase 1.cfg
+END PROCESSING FILE: New Testcase 1.cfg
+
+START PROCESSING FILE: New Testcase 1.seq
+END PROCESSING FILE: New Testcase 1.seq
+
+START PROCESSING FILE: New Testcase 2.czl
+END PROCESSING FILE: New Testcase 2.czl
+
+START PROCESSING FILE: New Testcase 2.cfg
+END PROCESSING FILE: New Testcase 2.cfg
+
+START PROCESSING FILE: New Testcase 2.seq
+END PROCESSING FILE: New Testcase 2.seq
+
+START PROCESSING FILE: New Testcase 2.czl
+END PROCESSING FILE: New Testcase 2.czl
+
+START PROCESSING FILE: New Testcase 2.cfg
+END PROCESSING FILE: New Testcase 2.cfg
+
+START PROCESSING FILE: New Testcase 2.seq
+END PROCESSING FILE: New Testcase 2.seq
+
+START PROCESSING FILE: New Testcase 1.czl
+END PROCESSING FILE: New Testcase 1.czl
+
+START PROCESSING FILE: New Testcase 1.cfg
+END PROCESSING FILE: New Testcase 1.cfg
+
+START PROCESSING FILE: New Testcase 1.seq
+END PROCESSING FILE: New Testcase 1.seq
+
+START PROCESSING FILE: New Testcase 1.czl
+END PROCESSING FILE: New Testcase 1.czl
+
+START PROCESSING FILE: New Testcase 1.cfg
+END PROCESSING FILE: New Testcase 1.cfg
+
+START PROCESSING FILE: New Testcase 1.seq
+END PROCESSING FILE: New Testcase 1.seq
+
+START PROCESSING FILE: New Testcase 2.czl
+END PROCESSING FILE: New Testcase 2.czl
+
+START PROCESSING FILE: New Testcase 2.cfg
+END PROCESSING FILE: New Testcase 2.cfg
+
+START PROCESSING FILE: New Testcase 2.seq
+END PROCESSING FILE: New Testcase 2.seq
+
+START PROCESSING FILE: New Testcase 2.czl
+END PROCESSING FILE: New Testcase 2.czl
+
+START PROCESSING FILE: New Testcase 2.cfg
+END PROCESSING FILE: New Testcase 2.cfg
+
+START PROCESSING FILE: New Testcase 2.seq
+END PROCESSING FILE: New Testcase 2.seq
+
+START PROCESSING FILE: New Testcase 2.czl
+END PROCESSING FILE: New Testcase 2.czl
+
+START PROCESSING FILE: New Testcase 2.cfg
+END PROCESSING FILE: New Testcase 2.cfg
+
+START PROCESSING FILE: New Testcase 2.seq
+END PROCESSING FILE: New Testcase 2.seq
+
+START PROCESSING FILE: New Testcase 2.czl
+END PROCESSING FILE: New Testcase 2.czl
+
+START PROCESSING FILE: New Testcase 2.cfg
+END PROCESSING FILE: New Testcase 2.cfg
+
+START PROCESSING FILE: New Testcase 2.seq
+END PROCESSING FILE: New Testcase 2.seq
+
+START PROCESSING FILE: New Testcase 2.czl
+END PROCESSING FILE: New Testcase 2.czl
+
+START PROCESSING FILE: New Testcase 2.cfg
+END PROCESSING FILE: New Testcase 2.cfg
+
+START PROCESSING FILE: New Testcase 2.seq
+END PROCESSING FILE: New Testcase 2.seq
+
+START PROCESSING FILE: New Testcase 2.czl
+END PROCESSING FILE: New Testcase 2.czl
+
+START PROCESSING FILE: New Testcase 2.cfg
+error 1: code 1002: key-value pair (MINIMUM_NUMBER_OF_THE_SAME_WORD=0), integer is not in the range 1 to 2147483647, inclusive
+error 2: code 1002: key-value pair (MAXIMUM_NUMBER_OF_THE_SAME_WORD=0), integer is not in the range 1 to 2147483647, inclusive
+END PROCESSING FILE: New Testcase 2.cfg
+
+START PROCESSING FILE: New Testcase 2.seq
+END PROCESSING FILE: New Testcase 2.seq
+
+START PROCESSING FILE: New Testcase 2.czl
+END PROCESSING FILE: New Testcase 2.czl
+
+START PROCESSING FILE: New Testcase 2.cfg
+END PROCESSING FILE: New Testcase 2.cfg
+
+START PROCESSING FILE: New Testcase 2.seq
+END PROCESSING FILE: New Testcase 2.seq
+
+START PROCESSING FILE: New Testcase 1.czl
+END PROCESSING FILE: New Testcase 1.czl
+
+START PROCESSING FILE: New Testcase 1.cfg
+END PROCESSING FILE: New Testcase 1.cfg
+
+START PROCESSING FILE: New Testcase 1.seq
+END PROCESSING FILE: New Testcase 1.seq
+
+START PROCESSING FILE: Test 2.czl
+error 1: code 5001: invalid symbol in crozzle file item (MARY,4)
+error 2: code 5001: invalid symbol in crozzle file item (COLUM=15,WENDY,2)
+error 3: code 3001: row value (aaa) is not an integer
+error 4: code 3002: column value (bbb) is not an integer
+error 5: code 9002: word data (ROW=3,,2) is missing data in field 2
+error 6: code 9001: 3 fields in word data (ROW=6,11), instead of 4
+error 7: code 9004: word (11) is not alphabetic
+error 8: code 9001: 3 fields in word data (ROW=8,GARY), instead of 4
+error 9: code 9004: word (?????) is not alphabetic
+error 10: code 3001: row value (1.5) is not an integer
+error 11: code 9003: word (BILL) is not in the word list
+error 12: code 9003: word (CHARLES) is not in the word list
+END PROCESSING FILE: Test 2.czl
+
+START PROCESSING FILE: Test 2.cfg
+error 1: code 1002: key-value pair (MINIMUM_NUMBER_OF_UNIQUE_WORDS=-10), integer is not in the range 1 to 2147483647, inclusive
+error 2: code 1001: key-value pair (UPPERCASE=yes), value is not matching the pattern ^(true|false)$
+error 3: code 1004: key-value pair (BGCOLOUR_EMPTY_TD=#7777), colour is not a Hex colour code
+error 4: code 1004: key-value pair (BGCOLOUR_NON_EMPTY_TD=#abcxyz), colour is not a Hex colour code
+error 5: code 6005: missing = symbol in key-value pair (MAXIMUM_NUMBER_OF_COLUMNS 800)
+error 6: code 6004: missing value in key-value pair (MINIMUM_HORIZONTAL_WORDS=)
+error 7: code 1001: key-value pair (MINIMUM_NUMBER_OF_THE_SAME_WORD="1"), value is not an integer
+error 8: code 1001: key-value pair (POINTS_PER_WORD=lO), value is not an integer
+error 9: code 1007: key (MAXIMUM_NUMBER_OF_COLUMNS) is missing from the configuration file
+error 10: code 1007: key (MINIMUM_HORIZONTAL_WORDS) is missing from the configuration file
+error 11: code 1010: the value of MINIMUM_NUMBER_OF_ROWS is 4 which is greater than the counterpart maximum value of 1
+END PROCESSING FILE: Test 2.cfg
+
+START PROCESSING FILE: Test 2.seq
+error 1: code 10001: non-alphabetic value (123) in field 0 of the wordlist
+error 2: code 10001: non-alphabetic value (...) in field 1 of the wordlist
+error 3: code 10002: missing word in field 4 of the wordlist
+error 4: code 10001: non-alphabetic value (O'BRIAN) in field 5 of the wordlist
+error 5: code 10001: non-alphabetic value (MAC DONALD) in field 6 of the wordlist
+error 6: code 10001: non-alphabetic value (BILL?) in field 7 of the wordlist
+error 7: code 10001: non-alphabetic value ("BRENDA") in field 8 of the wordlist
+error 8: code 10001: non-alphabetic value (CHARLES SMITH) in field 9 of the wordlist
+END PROCESSING FILE: Test 2.seq
+
+START PROCESSING FILE: Test 1.czl
+END PROCESSING FILE: Test 1.czl
+
+START PROCESSING FILE: Test 1.cfg
+END PROCESSING FILE: Test 1.cfg
+
+START PROCESSING FILE: Test 1.seq
+END PROCESSING FILE: Test 1.seq
+
+START PROCESSING FILE: Test 3.czl
+error 1: code 9003: word (JO) is not in the word list
+END PROCESSING FILE: Test 3.czl
+
+START PROCESSING FILE: Test 3.cfg
+END PROCESSING FILE: Test 3.cfg
+
+START PROCESSING FILE: Test 3.seq
+END PROCESSING FILE: Test 3.seq
+
+START PROCESSING FILE: Test 3.czl
+error 1: code 9003: word (JO) is not in the word list
+END PROCESSING FILE: Test 3.czl
+
+START PROCESSING FILE: Test 3.cfg
+END PROCESSING FILE: Test 3.cfg
+
+START PROCESSING FILE: Test 3.seq
+END PROCESSING FILE: Test 3.seq
+
+START PROCESSING FILE: New Testcase 1.czl
+END PROCESSING FILE: New Testcase 1.czl
+
+START PROCESSING FILE: New Testcase 1.cfg
+END PROCESSING FILE: New Testcase 1.cfg
+
+START PROCESSING FILE: New Testcase 1.seq
+END PROCESSING FILE: New Testcase 1.seq
+
+START PROCESSING FILE: New Testcase 2.czl
+END PROCESSING FILE: New Testcase 2.czl
+
+START PROCESSING FILE: New Testcase 2.cfg
+END PROCESSING FILE: New Testcase 2.cfg
+
+START PROCESSING FILE: New Testcase 2.seq
+END PROCESSING FILE: New Testcase 2.seq
+
+START PROCESSING FILE: New Testcase 2.czl
+END PROCESSING FILE: New Testcase 2.czl
+
+START PROCESSING FILE: New Testcase 2.cfg
+END PROCESSING FILE: New Testcase 2.cfg
+
+START PROCESSING FILE: New Testcase 2.seq
+END PROCESSING FILE: New Testcase 2.seq
+
+START PROCESSING FILE: New Testcase 2.czl
+END PROCESSING FILE: New Testcase 2.czl
+
+START PROCESSING FILE: New Testcase 2.cfg
+END PROCESSING FILE: New Testcase 2.cfg
+
+START PROCESSING FILE: New Testcase 2.seq
+END PROCESSING FILE: New Testcase 2.seq
+
+START PROCESSING FILE: New Testcase 2.czl
+error 1: code 3001: row value (1) is not in the range 1 to 0, inclusive
+error 2: code 3001: row value (1) is not in the range 1 to 0, inclusive
+error 3: code 3001: row value (2) is not in the range 1 to 0, inclusive
+error 4: code 3001: row value (3) is not in the range 1 to 0, inclusive
+error 5: code 3001: row value (3) is not in the range 1 to 0, inclusive
+error 6: code 3001: row value (4) is not in the range 1 to 0, inclusive
+error 7: code 3001: row value (6) is not in the range 1 to 0, inclusive
+error 8: code 3001: row value (6) is not in the range 1 to 0, inclusive
+error 9: code 3001: row value (8) is not in the range 1 to 0, inclusive
+error 10: code 3001: row value (8) is not in the range 1 to 0, inclusive
+error 11: code 3001: row value (9) is not in the range 1 to 0, inclusive
+error 12: code 3001: row value (9) is not in the range 1 to 0, inclusive
+error 13: code 3001: row value (10) is not in the range 1 to 0, inclusive
+error 14: code 3001: row value (3) is not in the range 1 to 0, inclusive
+error 15: code 3001: row value (1) is not in the range 1 to 0, inclusive
+error 16: code 3001: row value (6) is not in the range 1 to 0, inclusive
+error 17: code 3001: row value (5) is not in the range 1 to 0, inclusive
+error 18: code 3001: row value (2) is not in the range 1 to 0, inclusive
+error 19: code 3001: row value (7) is not in the range 1 to 0, inclusive
+error 20: code 3001: row value (1) is not in the range 1 to 0, inclusive
+error 21: code 3001: row value (1) is not in the range 1 to 0, inclusive
+error 22: code 3001: row value (6) is not in the range 1 to 0, inclusive
+END PROCESSING FILE: New Testcase 2.czl
+
+START PROCESSING FILE: New Testcase 2.cfg
+END PROCESSING FILE: New Testcase 2.cfg
+
+START PROCESSING FILE: New Testcase 2.seq
+END PROCESSING FILE: New Testcase 2.seq
+
+START PROCESSING FILE: New Testcase 2.czl
+error 1: code 3001: row value (2) is not in the range 1 to 1, inclusive
+error 2: code 3001: row value (3) is not in the range 1 to 1, inclusive
+error 3: code 3001: row value (3) is not in the range 1 to 1, inclusive
+error 4: code 3001: row value (4) is not in the range 1 to 1, inclusive
+error 5: code 3001: row value (6) is not in the range 1 to 1, inclusive
+error 6: code 3001: row value (6) is not in the range 1 to 1, inclusive
+error 7: code 3001: row value (8) is not in the range 1 to 1, inclusive
+error 8: code 3001: row value (8) is not in the range 1 to 1, inclusive
+error 9: code 3001: row value (9) is not in the range 1 to 1, inclusive
+error 10: code 3001: row value (9) is not in the range 1 to 1, inclusive
+error 11: code 3001: row value (10) is not in the range 1 to 1, inclusive
+error 12: code 3001: row value (3) is not in the range 1 to 1, inclusive
+error 13: code 3001: row value (6) is not in the range 1 to 1, inclusive
+error 14: code 3001: row value (5) is not in the range 1 to 1, inclusive
+error 15: code 3001: row value (2) is not in the range 1 to 1, inclusive
+error 16: code 3001: row value (7) is not in the range 1 to 1, inclusive
+error 17: code 3001: row value (6) is not in the range 1 to 1, inclusive
+END PROCESSING FILE: New Testcase 2.czl
+
+START PROCESSING FILE: New Testcase 2.cfg
+END PROCESSING FILE: New Testcase 2.cfg
+
+START PROCESSING FILE: New Testcase 2.seq
+END PROCESSING FILE: New Testcase 2.seq
+
