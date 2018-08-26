@@ -7,8 +7,8 @@ CrozzleApplication/obj/
 
 \.\./\.\./Properties/Resources\.log
 
-Test Files/\.~lock\.Unit Tests\.xlsx#
-
 Test Files/~\$Unit Tests\.xlsx
 
-Test Files/\.~lock\.Test Designs Justification\.docx#
+*.xlsx#
+
+*.docx#
