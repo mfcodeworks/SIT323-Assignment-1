@@ -7,7 +7,7 @@ END-FILE-DEPENDENCIES
 // Crozzle Size. The number of rows and columns.
 // This crozzle will have 10 rows and 15 columns.
 CROZZLE-SIZE
-    SIZE=10,y
+    SIZE=y,10
 END-CROZZLE-SIZE
 
 // Horizontal Sequence Data.

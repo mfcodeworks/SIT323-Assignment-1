@@ -154,3 +154,367 @@ error 5: code 10001: non-alphabetic value (SIT323) in field 6 of the wordlist
 error 6: code 10004: the wordlist size (27) is more than the expected maximum (1)
 END PROCESSING FILE: New Testcase 3.seq
 
+START PROCESSING FILE: New Testcase 3.czl
+error 1: code 4006: the value in the key-value (COLUMNS=y) is not an integer
+error 2: code 3002: column value (aaa) is not an integer
+error 3: code 3001: row value (bbb) is not an integer
+error 4: code 3002: column value (2) is not in the range 1 to 0, inclusive
+error 5: code 9002: word data (ROW=2,,3) is missing data in field 2
+error 6: code 3002: column value (3) is not in the range 1 to 0, inclusive
+error 7: code 3002: column value (6) is not in the range 1 to 0, inclusive
+error 8: code 9001: 3 fields in word data (ROW=6,11), instead of 4
+error 9: code 9004: word (11) is not alphabetic
+error 10: code 9001: 3 fields in word data (ROW=8,GARY), instead of 4
+error 11: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 12: code 9004: word (?A?K?E) is not alphabetic
+error 13: code 3001: row value (14) is not in the range 1 to 10, inclusive
+error 14: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 15: code 3002: column value (2) is not in the range 1 to 0, inclusive
+error 16: code 3001: row value (1.5) is not an integer
+error 17: code 3002: column value (4) is not in the range 1 to 0, inclusive
+error 18: code 9003: word (BILL) is not in the word list
+error 19: code 3002: column value (4) is not in the range 1 to 0, inclusive
+error 20: code 3002: column value (6) is not in the range 1 to 0, inclusive
+error 21: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 22: code 3002: column value (11) is not in the range 1 to 0, inclusive
+error 23: code 9003: word (CHARLES) is not in the word list
+error 24: code 3002: column value (15) is not in the range 1 to 0, inclusive
+END PROCESSING FILE: New Testcase 3.czl
+
+START PROCESSING FILE: New Testcase 3.cfg
+error 1: code 1001: key-value pair (UPPERCASE=uppercase), value is not matching the pattern ^(true|false)$
+error 2: code 1004: key-value pair (BGCOLOUR_EMPTY_TD=777777), colour is not a Hex colour code
+error 3: code 1004: key-value pair (BGCOLOUR_NON_EMPTY_TD=#), colour is not a Hex colour code
+error 4: code 6004: missing value in key-value pair (B=)
+error 5: code 6005: missing = symbol in key-value pair (C)
+error 6: code 6005: missing = symbol in key-value pair (2)
+error 7: code 1001: key-value pair (D=XXXX), value is not an integer
+error 8: code 1008: key (B) is missing from the intersection points
+error 9: code 1008: key (C) is missing from the intersection points
+error 10: code 1008: key (D) is missing from the intersection points
+error 11: code 1010: the value of MINIMUM_NUMBER_OF_UNIQUE_WORDS is 10 which is greater than the counterpart maximum value of 1
+error 12: code 1010: the value of MINIMUM_HORIZONTAL_WORDS is 2 which is greater than the counterpart maximum value of 1
+error 13: code 1010: the value of MAXIMUM_INTERSECTIONS_IN_VERTICAL_WORDS is 2 which is greater than the counterpart maximum value of 1
+END PROCESSING FILE: New Testcase 3.cfg
+
+START PROCESSING FILE: New Testcase 3.seq
+error 1: code 10001: non-alphabetic value (ANGELA*) in field 2 of the wordlist
+error 2: code 10002: missing word in field 3 of the wordlist
+error 3: code 10001: non-alphabetic value (10) in field 4 of the wordlist
+error 4: code 10001: non-alphabetic value (***) in field 5 of the wordlist
+error 5: code 10001: non-alphabetic value (SIT323) in field 6 of the wordlist
+error 6: code 10004: the wordlist size (27) is more than the expected maximum (1)
+END PROCESSING FILE: New Testcase 3.seq
+
+START PROCESSING FILE: New Testcase 3.czl
+error 1: code 4006: the value in the key-value (COLUMNS=y) is not an integer
+error 2: code 3002: column value (aaa) is not an integer
+error 3: code 3001: row value (bbb) is not an integer
+error 4: code 3002: column value (2) is not in the range 1 to 0, inclusive
+error 5: code 9002: word data (ROW=2,,3) is missing data in field 2
+error 6: code 3002: column value (3) is not in the range 1 to 0, inclusive
+error 7: code 3002: column value (6) is not in the range 1 to 0, inclusive
+error 8: code 9001: 3 fields in word data (ROW=6,11), instead of 4
+error 9: code 9004: word (11) is not alphabetic
+error 10: code 9001: 3 fields in word data (ROW=8,GARY), instead of 4
+error 11: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 12: code 9004: word (?A?K?E) is not alphabetic
+error 13: code 3001: row value (14) is not in the range 1 to 10, inclusive
+error 14: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 15: code 3002: column value (2) is not in the range 1 to 0, inclusive
+error 16: code 3001: row value (1.5) is not an integer
+error 17: code 3002: column value (4) is not in the range 1 to 0, inclusive
+error 18: code 9003: word (BILL) is not in the word list
+error 19: code 3002: column value (4) is not in the range 1 to 0, inclusive
+error 20: code 3002: column value (6) is not in the range 1 to 0, inclusive
+error 21: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 22: code 3002: column value (11) is not in the range 1 to 0, inclusive
+error 23: code 9003: word (CHARLES) is not in the word list
+error 24: code 3002: column value (15) is not in the range 1 to 0, inclusive
+END PROCESSING FILE: New Testcase 3.czl
+
+START PROCESSING FILE: New Testcase 3.cfg
+error 1: code 1001: key-value pair (UPPERCASE=uppercase), value is not matching the pattern ^(true|false)$
+error 2: code 1004: key-value pair (BGCOLOUR_EMPTY_TD=777777), colour is not a Hex colour code
+error 3: code 1004: key-value pair (BGCOLOUR_NON_EMPTY_TD=#), colour is not a Hex colour code
+error 4: code 6004: missing value in key-value pair (B=)
+error 5: code 6005: missing = symbol in key-value pair (C)
+error 6: code 6005: missing = symbol in key-value pair (2)
+error 7: code 1001: key-value pair (D=XXXX), value is not an integer
+error 8: code 1008: key (B) is missing from the intersection points
+error 9: code 1008: key (C) is missing from the intersection points
+error 10: code 1008: key (D) is missing from the intersection points
+error 11: code 1010: the value of MINIMUM_NUMBER_OF_UNIQUE_WORDS is 10 which is greater than the counterpart maximum value of 1
+error 12: code 1010: the value of MINIMUM_HORIZONTAL_WORDS is 2 which is greater than the counterpart maximum value of 1
+error 13: code 1010: the value of MAXIMUM_INTERSECTIONS_IN_VERTICAL_WORDS is 2 which is greater than the counterpart maximum value of 1
+END PROCESSING FILE: New Testcase 3.cfg
+
+START PROCESSING FILE: New Testcase 3.seq
+error 1: code 10001: non-alphabetic value (ANGELA*) in field 2 of the wordlist
+error 2: code 10002: missing word in field 3 of the wordlist
+error 3: code 10001: non-alphabetic value (10) in field 4 of the wordlist
+error 4: code 10001: non-alphabetic value (***) in field 5 of the wordlist
+error 5: code 10001: non-alphabetic value (SIT323) in field 6 of the wordlist
+error 6: code 10004: the wordlist size (27) is more than the expected maximum (1)
+END PROCESSING FILE: New Testcase 3.seq
+
+START PROCESSING FILE: New Testcase 3.czl
+error 1: code 4006: the value in the key-value (COLUMNS=y) is not an integer
+error 2: code 3002: column value (aaa) is not an integer
+error 3: code 3001: row value (bbb) is not an integer
+error 4: code 3002: column value (2) is not in the range 1 to 0, inclusive
+error 5: code 9002: word data (ROW=2,,3) is missing data in field 2
+error 6: code 3002: column value (3) is not in the range 1 to 0, inclusive
+error 7: code 3002: column value (6) is not in the range 1 to 0, inclusive
+error 8: code 9001: 3 fields in word data (ROW=6,11), instead of 4
+error 9: code 9004: word (11) is not alphabetic
+error 10: code 9001: 3 fields in word data (ROW=8,GARY), instead of 4
+error 11: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 12: code 9004: word (?A?K?E) is not alphabetic
+error 13: code 3001: row value (14) is not in the range 1 to 10, inclusive
+error 14: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 15: code 3002: column value (2) is not in the range 1 to 0, inclusive
+error 16: code 3001: row value (1.5) is not an integer
+error 17: code 3002: column value (4) is not in the range 1 to 0, inclusive
+error 18: code 9003: word (BILL) is not in the word list
+error 19: code 3002: column value (4) is not in the range 1 to 0, inclusive
+error 20: code 3002: column value (6) is not in the range 1 to 0, inclusive
+error 21: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 22: code 3002: column value (11) is not in the range 1 to 0, inclusive
+error 23: code 9003: word (CHARLES) is not in the word list
+error 24: code 3002: column value (15) is not in the range 1 to 0, inclusive
+END PROCESSING FILE: New Testcase 3.czl
+
+START PROCESSING FILE: New Testcase 3.cfg
+error 1: code 1001: key-value pair (UPPERCASE=uppercase), value is not matching the pattern ^(true|false)$
+error 2: code 1004: key-value pair (BGCOLOUR_EMPTY_TD=777777), colour is not a Hex colour code
+error 3: code 1004: key-value pair (BGCOLOUR_NON_EMPTY_TD=#), colour is not a Hex colour code
+error 4: code 6004: missing value in key-value pair (B=)
+error 5: code 6005: missing = symbol in key-value pair (C)
+error 6: code 6005: missing = symbol in key-value pair (2)
+error 7: code 1001: key-value pair (D=XXXX), value is not an integer
+error 8: code 1008: key (B) is missing from the intersection points
+error 9: code 1008: key (C) is missing from the intersection points
+error 10: code 1008: key (D) is missing from the intersection points
+error 11: code 1010: the value of MINIMUM_NUMBER_OF_UNIQUE_WORDS is 10 which is greater than the counterpart maximum value of 1
+error 12: code 1010: the value of MINIMUM_HORIZONTAL_WORDS is 2 which is greater than the counterpart maximum value of 1
+error 13: code 1010: the value of MAXIMUM_INTERSECTIONS_IN_VERTICAL_WORDS is 2 which is greater than the counterpart maximum value of 1
+END PROCESSING FILE: New Testcase 3.cfg
+
+START PROCESSING FILE: New Testcase 3.seq
+error 1: code 10001: non-alphabetic value (ANGELA*) in field 2 of the wordlist
+error 2: code 10002: missing word in field 3 of the wordlist
+error 3: code 10001: non-alphabetic value (10) in field 4 of the wordlist
+error 4: code 10001: non-alphabetic value (***) in field 5 of the wordlist
+error 5: code 10001: non-alphabetic value (SIT323) in field 6 of the wordlist
+error 6: code 10004: the wordlist size (27) is more than the expected maximum (1)
+END PROCESSING FILE: New Testcase 3.seq
+
+START PROCESSING FILE: New Testcase 3.czl
+error 1: code 4006: the value in the key-value (COLUMNS=y) is not an integer
+error 2: code 3002: column value (aaa) is not an integer
+error 3: code 3001: row value (bbb) is not an integer
+error 4: code 3002: column value (2) is not in the range 1 to 0, inclusive
+error 5: code 9002: word data (ROW=2,,3) is missing data in field 2
+error 6: code 3002: column value (3) is not in the range 1 to 0, inclusive
+error 7: code 3002: column value (6) is not in the range 1 to 0, inclusive
+error 8: code 9001: 3 fields in word data (ROW=6,11), instead of 4
+error 9: code 9004: word (11) is not alphabetic
+error 10: code 9001: 3 fields in word data (ROW=8,GARY), instead of 4
+error 11: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 12: code 9004: word (?A?K?E) is not alphabetic
+error 13: code 3001: row value (14) is not in the range 1 to 10, inclusive
+error 14: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 15: code 3002: column value (2) is not in the range 1 to 0, inclusive
+error 16: code 3001: row value (1.5) is not an integer
+error 17: code 3002: column value (4) is not in the range 1 to 0, inclusive
+error 18: code 9003: word (BILL) is not in the word list
+error 19: code 3002: column value (4) is not in the range 1 to 0, inclusive
+error 20: code 3002: column value (6) is not in the range 1 to 0, inclusive
+error 21: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 22: code 3002: column value (11) is not in the range 1 to 0, inclusive
+error 23: code 9003: word (CHARLES) is not in the word list
+error 24: code 3002: column value (15) is not in the range 1 to 0, inclusive
+END PROCESSING FILE: New Testcase 3.czl
+
+START PROCESSING FILE: New Testcase 3.cfg
+error 1: code 1001: key-value pair (UPPERCASE=uppercase), value is not matching the pattern ^(true|false)$
+error 2: code 1004: key-value pair (BGCOLOUR_EMPTY_TD=777777), colour is not a Hex colour code
+error 3: code 1004: key-value pair (BGCOLOUR_NON_EMPTY_TD=#), colour is not a Hex colour code
+error 4: code 6004: missing value in key-value pair (B=)
+error 5: code 6005: missing = symbol in key-value pair (C)
+error 6: code 6005: missing = symbol in key-value pair (2)
+error 7: code 1001: key-value pair (D=XXXX), value is not an integer
+error 8: code 1008: key (B) is missing from the intersection points
+error 9: code 1008: key (C) is missing from the intersection points
+error 10: code 1008: key (D) is missing from the intersection points
+error 11: code 1010: the value of MINIMUM_NUMBER_OF_UNIQUE_WORDS is 10 which is greater than the counterpart maximum value of 1
+error 12: code 1010: the value of MINIMUM_HORIZONTAL_WORDS is 2 which is greater than the counterpart maximum value of 1
+error 13: code 1010: the value of MAXIMUM_INTERSECTIONS_IN_VERTICAL_WORDS is 2 which is greater than the counterpart maximum value of 1
+END PROCESSING FILE: New Testcase 3.cfg
+
+START PROCESSING FILE: New Testcase 3.seq
+error 1: code 10001: non-alphabetic value (ANGELA*) in field 2 of the wordlist
+error 2: code 10002: missing word in field 3 of the wordlist
+error 3: code 10001: non-alphabetic value (10) in field 4 of the wordlist
+error 4: code 10001: non-alphabetic value (***) in field 5 of the wordlist
+error 5: code 10001: non-alphabetic value (SIT323) in field 6 of the wordlist
+error 6: code 10004: the wordlist size (27) is more than the expected maximum (1)
+END PROCESSING FILE: New Testcase 3.seq
+
+START PROCESSING FILE: New Testcase 3.czl
+error 1: code 4006: the value in the key-value (COLUMNS=y) is not an integer
+error 2: code 3002: column value (aaa) is not an integer
+error 3: code 3001: row value (bbb) is not an integer
+error 4: code 3002: column value (2) is not in the range 1 to 0, inclusive
+error 5: code 9002: word data (ROW=2,,3) is missing data in field 2
+error 6: code 3002: column value (3) is not in the range 1 to 0, inclusive
+error 7: code 3002: column value (6) is not in the range 1 to 0, inclusive
+error 8: code 9001: 3 fields in word data (ROW=6,11), instead of 4
+error 9: code 9004: word (11) is not alphabetic
+error 10: code 9001: 3 fields in word data (ROW=8,GARY), instead of 4
+error 11: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 12: code 9004: word (?A?K?E) is not alphabetic
+error 13: code 3001: row value (14) is not in the range 1 to 10, inclusive
+error 14: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 15: code 3002: column value (2) is not in the range 1 to 0, inclusive
+error 16: code 3001: row value (1.5) is not an integer
+error 17: code 3002: column value (4) is not in the range 1 to 0, inclusive
+error 18: code 9003: word (BILL) is not in the word list
+error 19: code 3002: column value (4) is not in the range 1 to 0, inclusive
+error 20: code 3002: column value (6) is not in the range 1 to 0, inclusive
+error 21: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 22: code 3002: column value (11) is not in the range 1 to 0, inclusive
+error 23: code 9003: word (CHARLES) is not in the word list
+error 24: code 3002: column value (15) is not in the range 1 to 0, inclusive
+END PROCESSING FILE: New Testcase 3.czl
+
+START PROCESSING FILE: New Testcase 3.cfg
+error 1: code 1001: key-value pair (UPPERCASE=uppercase), value is not matching the pattern ^(true|false)$
+error 2: code 1004: key-value pair (BGCOLOUR_EMPTY_TD=777777), colour is not a Hex colour code
+error 3: code 1004: key-value pair (BGCOLOUR_NON_EMPTY_TD=#), colour is not a Hex colour code
+error 4: code 6004: missing value in key-value pair (B=)
+error 5: code 6005: missing = symbol in key-value pair (C)
+error 6: code 6005: missing = symbol in key-value pair (2)
+error 7: code 1001: key-value pair (D=XXXX), value is not an integer
+error 8: code 1008: key (B) is missing from the intersection points
+error 9: code 1008: key (C) is missing from the intersection points
+error 10: code 1008: key (D) is missing from the intersection points
+error 11: code 1010: the value of MINIMUM_NUMBER_OF_UNIQUE_WORDS is 10 which is greater than the counterpart maximum value of 1
+error 12: code 1010: the value of MINIMUM_HORIZONTAL_WORDS is 2 which is greater than the counterpart maximum value of 1
+error 13: code 1010: the value of MAXIMUM_INTERSECTIONS_IN_VERTICAL_WORDS is 2 which is greater than the counterpart maximum value of 1
+END PROCESSING FILE: New Testcase 3.cfg
+
+START PROCESSING FILE: New Testcase 3.seq
+error 1: code 10001: non-alphabetic value (ANGELA*) in field 2 of the wordlist
+error 2: code 10002: missing word in field 3 of the wordlist
+error 3: code 10001: non-alphabetic value (10) in field 4 of the wordlist
+error 4: code 10001: non-alphabetic value (***) in field 5 of the wordlist
+error 5: code 10001: non-alphabetic value (SIT323) in field 6 of the wordlist
+error 6: code 10004: the wordlist size (27) is more than the expected maximum (1)
+END PROCESSING FILE: New Testcase 3.seq
+
+START PROCESSING FILE: New Testcase 3.czl
+error 1: code 4006: the value in the key-value (COLUMNS=y) is not an integer
+error 2: code 3002: column value (aaa) is not an integer
+error 3: code 3001: row value (bbb) is not an integer
+error 4: code 3002: column value (2) is not in the range 1 to 0, inclusive
+error 5: code 9002: word data (ROW=2,,3) is missing data in field 2
+error 6: code 3002: column value (3) is not in the range 1 to 0, inclusive
+error 7: code 3002: column value (6) is not in the range 1 to 0, inclusive
+error 8: code 9001: 3 fields in word data (ROW=6,11), instead of 4
+error 9: code 9004: word (11) is not alphabetic
+error 10: code 9001: 3 fields in word data (ROW=8,GARY), instead of 4
+error 11: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 12: code 9004: word (?A?K?E) is not alphabetic
+error 13: code 3001: row value (14) is not in the range 1 to 10, inclusive
+error 14: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 15: code 3002: column value (2) is not in the range 1 to 0, inclusive
+error 16: code 3001: row value (1.5) is not an integer
+error 17: code 3002: column value (4) is not in the range 1 to 0, inclusive
+error 18: code 9003: word (BILL) is not in the word list
+error 19: code 3002: column value (4) is not in the range 1 to 0, inclusive
+error 20: code 3002: column value (6) is not in the range 1 to 0, inclusive
+error 21: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 22: code 3002: column value (11) is not in the range 1 to 0, inclusive
+error 23: code 9003: word (CHARLES) is not in the word list
+error 24: code 3002: column value (15) is not in the range 1 to 0, inclusive
+END PROCESSING FILE: New Testcase 3.czl
+
+START PROCESSING FILE: New Testcase 3.cfg
+error 1: code 1001: key-value pair (UPPERCASE=uppercase), value is not matching the pattern ^(true|false)$
+error 2: code 1004: key-value pair (BGCOLOUR_EMPTY_TD=777777), colour is not a Hex colour code
+error 3: code 1004: key-value pair (BGCOLOUR_NON_EMPTY_TD=#), colour is not a Hex colour code
+error 4: code 6004: missing value in key-value pair (B=)
+error 5: code 6005: missing = symbol in key-value pair (C)
+error 6: code 6005: missing = symbol in key-value pair (2)
+error 7: code 1001: key-value pair (D=XXXX), value is not an integer
+error 8: code 1008: key (B) is missing from the intersection points
+error 9: code 1008: key (C) is missing from the intersection points
+error 10: code 1008: key (D) is missing from the intersection points
+error 11: code 1010: the value of MINIMUM_NUMBER_OF_UNIQUE_WORDS is 10 which is greater than the counterpart maximum value of 1
+error 12: code 1010: the value of MINIMUM_HORIZONTAL_WORDS is 2 which is greater than the counterpart maximum value of 1
+error 13: code 1010: the value of MAXIMUM_INTERSECTIONS_IN_VERTICAL_WORDS is 2 which is greater than the counterpart maximum value of 1
+END PROCESSING FILE: New Testcase 3.cfg
+
+START PROCESSING FILE: New Testcase 3.seq
+error 1: code 10001: non-alphabetic value (ANGELA*) in field 2 of the wordlist
+error 2: code 10002: missing word in field 3 of the wordlist
+error 3: code 10001: non-alphabetic value (10) in field 4 of the wordlist
+error 4: code 10001: non-alphabetic value (***) in field 5 of the wordlist
+error 5: code 10001: non-alphabetic value (SIT323) in field 6 of the wordlist
+error 6: code 10004: the wordlist size (27) is more than the expected maximum (1)
+END PROCESSING FILE: New Testcase 3.seq
+
+START PROCESSING FILE: New Testcase 3.czl
+error 1: code 4006: the value in the key-value (COLUMNS=y) is not an integer
+error 2: code 3002: column value (aaa) is not an integer
+error 3: code 3001: row value (bbb) is not an integer
+error 4: code 3002: column value (2) is not in the range 1 to 0, inclusive
+error 5: code 9002: word data (ROW=2,,3) is missing data in field 2
+error 6: code 3002: column value (3) is not in the range 1 to 0, inclusive
+error 7: code 3002: column value (6) is not in the range 1 to 0, inclusive
+error 8: code 9001: 3 fields in word data (ROW=6,11), instead of 4
+error 9: code 9004: word (11) is not alphabetic
+error 10: code 9001: 3 fields in word data (ROW=8,GARY), instead of 4
+error 11: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 12: code 9004: word (?A?K?E) is not alphabetic
+error 13: code 3001: row value (14) is not in the range 1 to 10, inclusive
+error 14: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 15: code 3002: column value (2) is not in the range 1 to 0, inclusive
+error 16: code 3001: row value (1.5) is not an integer
+error 17: code 3002: column value (4) is not in the range 1 to 0, inclusive
+error 18: code 9003: word (BILL) is not in the word list
+error 19: code 3002: column value (4) is not in the range 1 to 0, inclusive
+error 20: code 3002: column value (6) is not in the range 1 to 0, inclusive
+error 21: code 3002: column value (9) is not in the range 1 to 0, inclusive
+error 22: code 3002: column value (11) is not in the range 1 to 0, inclusive
+error 23: code 9003: word (CHARLES) is not in the word list
+error 24: code 3002: column value (15) is not in the range 1 to 0, inclusive
+END PROCESSING FILE: New Testcase 3.czl
+
+START PROCESSING FILE: New Testcase 3.cfg
+error 1: code 1001: key-value pair (UPPERCASE=uppercase), value is not matching the pattern ^(true|false)$
+error 2: code 1004: key-value pair (BGCOLOUR_EMPTY_TD=777777), colour is not a Hex colour code
+error 3: code 1004: key-value pair (BGCOLOUR_NON_EMPTY_TD=#), colour is not a Hex colour code
+error 4: code 6004: missing value in key-value pair (B=)
+error 5: code 6005: missing = symbol in key-value pair (C)
+error 6: code 6005: missing = symbol in key-value pair (2)
+error 7: code 1001: key-value pair (D=XXXX), value is not an integer
+error 8: code 1008: key (B) is missing from the intersection points
+error 9: code 1008: key (C) is missing from the intersection points
+error 10: code 1008: key (D) is missing from the intersection points
+error 11: code 1010: the value of MINIMUM_NUMBER_OF_UNIQUE_WORDS is 10 which is greater than the counterpart maximum value of 1
+error 12: code 1010: the value of MINIMUM_HORIZONTAL_WORDS is 2 which is greater than the counterpart maximum value of 1
+error 13: code 1010: the value of MAXIMUM_INTERSECTIONS_IN_VERTICAL_WORDS is 2 which is greater than the counterpart maximum value of 1
+END PROCESSING FILE: New Testcase 3.cfg
+
+START PROCESSING FILE: New Testcase 3.seq
+error 1: code 10001: non-alphabetic value (ANGELA*) in field 2 of the wordlist
+error 2: code 10002: missing word in field 3 of the wordlist
+error 3: code 10001: non-alphabetic value (10) in field 4 of the wordlist
+error 4: code 10001: non-alphabetic value (***) in field 5 of the wordlist
+error 5: code 10001: non-alphabetic value (SIT323) in field 6 of the wordlist
+error 6: code 10004: the wordlist size (27) is more than the expected maximum (1)
+END PROCESSING FILE: New Testcase 3.seq
+
